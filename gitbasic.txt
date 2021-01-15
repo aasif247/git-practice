@@ -1,0 +1,1 @@
+At the beginning of the git journey we need learn some basic git command 
