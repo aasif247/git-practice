@@ -1,1 +1,3 @@
 At the beginning of the git journey we need learn some basic git command 
+
+Then we need to practice the command more and more 
