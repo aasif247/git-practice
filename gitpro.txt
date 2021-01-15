@@ -1,0 +1,1 @@
+After completing basic git command we should focus on advance topics
