@@ -1,1 +1,3 @@
 After completing basic git command we should focus on advance topics
+
+When we move to advance topics that time we also need to learn about advance vim
